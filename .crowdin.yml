@@ -1,0 +1,7 @@
+"base_path": "brain-marks/Localization"
+"files": [
+  {
+    "source": "en.lproj/Localizable.strings",                            #source files filter
+    "translation": "%two_letters_code%.lproj/Localizable.strings"        #where translations are stored
+  }
+]
