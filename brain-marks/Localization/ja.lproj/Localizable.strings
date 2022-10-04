@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "ツイート";
+"Settings" = "設定";
+
+// CategoryViews
+"Categories" = "カテゴリ";
+"CategoriesAreEmpty" = "カテゴリが空です ";
+"PleaseAddNewCategories" = "クリックして新しいカテゴリを追加してください";
+"YouHaventCreatedCategories" = "カテゴリを作成していません！";
+"Edit" = "編集";
+"Done" = "完了";
+"AllCategoriesWillBeDeleted" = "カテゴリとすべてのツイートが削除されます";
+"EnterCategoryName" = "新しいカテゴリの名前を入力してください";
+"Cancel" = "キャンセル";
+"NewCategory" = "新しいカテゴリ";
+"EditCategory" = "カテゴリの編集";
+"Create" = "作成";
+"Delete" = "削除";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "午後9:58 / 9/5/20・";
+"TwitterForIphone" = "Twitter for iPhone";
+"Likes" = "いいね";
+"NoSavedTweets" = "ツイートは保存されませんでした！";
+"EnteredLinkIsNotValid" = "入力したリンクは無効です。";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "You must select a category";
+
+// AddURLView
+"EnterCopiedURL" = "コピーした URL を入力してください";
+"Category" = "カテゴリ";
+"Save" = "保存";
+"AddTweetURL" = "ツイートの URL を追加";
+
+// SettingsView
+"Settings" = "設定";
+"BrainMarksIsOpenSource..." = "Brain-marksはオープンソースプロジェクトです!ビッグブレインハッカソンのために作られ、Hacktoberfest 2021では仕事が続いています。";
+"IfYouWantToContribute" = "自分の貢献に興味がある場合は、GitHub Repoをご覧ください。 すべてのコントリビューターのリストの下にあります。 \nあなたの名前がある可能性があります！";
+"ListOfContributors" = "貢献者一覧";
+"Links" = "リンク";
+"ReportABug" = "バグを報告";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "ご利用いただきありがとうございます。";
+"Version" = "バージョン";
+
+// ContributorListView
+"Contributors" = "貢献者";

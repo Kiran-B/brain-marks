@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "Твиты";
+"Settings" = "Настройки";
+
+// CategoryViews
+"Categories" = "Категории";
+"CategoriesAreEmpty" = "Категории пусты, ";
+"PleaseAddNewCategories" = "пожалуйста, добавьте новые категории нажав на";
+"YouHaventCreatedCategories" = "Вы еще не создали категорий!";
+"Edit" = "Редактирование";
+"Done" = "Готово";
+"AllCategoriesWillBeDeleted" = "Категория и все твиты будут удалены";
+"EnterCategoryName" = "Введите название новой категории";
+"Cancel" = "Отмена";
+"NewCategory" = "Новая категория";
+"EditCategory" = "Изменить категорию";
+"Create" = "Создать";
+"Delete" = "Удалить";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "9:58 PM<unk> 9/5/20<unk>";
+"TwitterForIphone" = "Twitter для iPhone";
+"Likes" = "Лайки";
+"NoSavedTweets" = "Твиты не сохранены!";
+"EnteredLinkIsNotValid" = "Введенная вами ссылка недействительна.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "Необходимо выбрать категорию";
+
+// AddURLView
+"EnterCopiedURL" = "Введите скопированный url";
+"Category" = "Категория";
+"Save" = "Сохранить";
+"AddTweetURL" = "Добавить URL твита";
+
+// SettingsView
+"Settings" = "Настройки";
+"BrainMarksIsOpenSource..." = "Брейн-маркеры - проект с открытым исходным кодом! Он был создан для Big Brain Hackathon и во время Hacktoberfest 2021, работа продолжалась.";
+"IfYouWantToContribute" = "Если вы хотите внести свой вклад, посетите репозиторий GitHub для получения дополнительной информации. Ниже приведен список всех участников проекта. \nВаше имя может быть там и может быть!";
+"ListOfContributors" = "Список участников";
+"Links" = "Ссылки";
+"ReportABug" = "Сообщить об ошибке";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "Спасибо за использование";
+"Version" = "Версии";
+
+// ContributorListView
+"Contributors" = "Авторы";

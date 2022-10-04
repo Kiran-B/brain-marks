@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "Tweets";
+"Settings" = "Ρυθμίσεις";
+
+// CategoryViews
+"Categories" = "Κατηγορίες";
+"CategoriesAreEmpty" = "Οι κατηγορίες είναι κενές, ";
+"PleaseAddNewCategories" = "παρακαλώ προσθέστε νέες κατηγορίες κάνοντας κλικ στο";
+"YouHaventCreatedCategories" = "Δεν έχετε δημιουργήσει καμία κατηγορία!";
+"Edit" = "Επεξεργασία";
+"Done" = "Ολοκληρώθηκε";
+"AllCategoriesWillBeDeleted" = "Η κατηγορία και όλα τα tweets θα διαγραφούν";
+"EnterCategoryName" = "Εισάγετε όνομα νέας κατηγορίας";
+"Cancel" = "Ακύρωση";
+"NewCategory" = "Νέα Κατηγορία";
+"EditCategory" = "Επεξεργασία Κατηγορίας";
+"Create" = "Δημιουργία";
+"Delete" = "Διαγραφή";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "9:58 Π.Μ.9/5/20";
+"TwitterForIphone" = "Twitter για iPhone";
+"Likes" = "Αρέσει";
+"NoSavedTweets" = "Δεν αποθηκεύτηκαν tweets!";
+"EnteredLinkIsNotValid" = "Ο σύνδεσμος που εισάγατε δεν είναι έγκυρος.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "Πρέπει να επιλέξετε μια κατηγορία";
+
+// AddURLView
+"EnterCopiedURL" = "Εισάγετε αντιγραμμένο url";
+"Category" = "Κατηγορία";
+"Save" = "Αποθήκευση";
+"AddTweetURL" = "Προσθήκη Tweet URL";
+
+// SettingsView
+"Settings" = "Ρυθμίσεις";
+"BrainMarksIsOpenSource..." = "Τα σήματα εγκεφάλου είναι ένα έργο ανοικτού κώδικα! Δημιουργήθηκε για το Big Brain Hackathon και κατά τη διάρκεια του Hacktoberfest 2021, η εργασία συνεχίστηκε.";
+"IfYouWantToContribute" = "Αν ενδιαφέρεστε να συνεισφέρετε μόνοι σας, επισκεφθείτε το GitHub Repo για περισσότερες πληροφορίες. Κάτω από μια λίστα με όλους τους συνεισφέροντες μπορεί να βρεθεί. \nΤο όνομά σας θα μπορούσε να είναι εκεί!";
+"ListOfContributors" = "Κατάλογος συνεισφερόντων";
+"Links" = "Σύνδεσμοι";
+"ReportABug" = "Αναφορά σφάλματος";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "Σας ευχαριστούμε που χρησιμοποιήσατε";
+"Version" = "Έκδοση";
+
+// ContributorListView
+"Contributors" = "Συντελεστές";

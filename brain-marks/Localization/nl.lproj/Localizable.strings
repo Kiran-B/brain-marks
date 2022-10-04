@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "Tweets";
+"Settings" = "Instellingen";
+
+// CategoryViews
+"Categories" = "Categoriechar@@0n";
+"CategoriesAreEmpty" = "De categorieën zijn leeg, ";
+"PleaseAddNewCategories" = "voeg nieuwe categorieën toe door te klikken op";
+"YouHaventCreatedCategories" = "Je hebt nog geen categorieën gemaakt!";
+"Edit" = "Bewerken";
+"Done" = "Voltooid";
+"AllCategoriesWillBeDeleted" = "Categorie en alle tweets worden verwijderd";
+"EnterCategoryName" = "Voer naam van nieuwe categorie in";
+"Cancel" = "annuleren";
+"NewCategory" = "Nieuwe categorie";
+"EditCategory" = "Categorie bewerken";
+"Create" = "Aanmaken";
+"Delete" = "Verwijderen";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "9:58 PM・9/5/20・";
+"TwitterForIphone" = "Twitter voor iPhone";
+"Likes" = "Vind-ik-leuk";
+"NoSavedTweets" = "Geen tweets opgeslagen!";
+"EnteredLinkIsNotValid" = "De link die je hebt ingevoerd is niet geldig.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "U moet een categorie selecteren";
+
+// AddURLView
+"EnterCopiedURL" = "Voer gekopieerde url in";
+"Category" = "categorie";
+"Save" = "Opslaan";
+"AddTweetURL" = "Tweet URL toevoegen";
+
+// SettingsView
+"Settings" = "Instellingen";
+"BrainMarksIsOpenSource..." = "Hersenmarkeringen zijn een opensourceproject! Het werk is gemaakt voor de Big Brain Hackathon en tijdens Hacktoberfest 2021 is voortgezet.";
+"IfYouWantToContribute" = "Als je geïnteresseerd bent in zelf bijdragen, bezoek dan de GitHub Repo voor meer informatie. Hieronder kan een lijst van alle bijdragers worden gevonden. \nJe naam zou er kunnen zijn!";
+"ListOfContributors" = "Lijst van bijdragers";
+"Links" = "Koppelingen";
+"ReportABug" = "Meld een bug";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "Bedankt voor het gebruiken";
+"Version" = "Versie";
+
+// ContributorListView
+"Contributors" = "Bijdragers";

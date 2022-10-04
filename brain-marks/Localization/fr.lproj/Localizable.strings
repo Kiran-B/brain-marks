@@ -1,12 +1,12 @@
-/*
- Localizable.strings
- brain-marks
+/* 
+  Localizable.strings
+  brain-marks
 
- Created by Yash Shah on 01/10/22
-
- */
-
+  Created by AC Richter on 13.12.21. 
+  
+*/
 // TabView
+
 "Tweets" = "Tweets";
 "Settings" = "Paramètres";
 

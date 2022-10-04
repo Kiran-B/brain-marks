@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "Tweet-uri";
+"Settings" = "Setări";
+
+// CategoryViews
+"Categories" = "Categorii";
+"CategoriesAreEmpty" = "Categoriile sunt goale, ";
+"PleaseAddNewCategories" = "vă rugăm să adăugaţi categorii noi făcând clic pe";
+"YouHaventCreatedCategories" = "Nu ai creat nicio categorie!";
+"Edit" = "Editare";
+"Done" = "Terminat";
+"AllCategoriesWillBeDeleted" = "Categoria și toate tweet-urile vor fi șterse";
+"EnterCategoryName" = "Introduceți numele categoriei noi";
+"Cancel" = "Anulează";
+"NewCategory" = "Categorie nouă";
+"EditCategory" = "Editează Categoria";
+"Create" = "Crează";
+"Delete" = "Ștergere";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "9:58 PM<unk> 9/5/20";
+"TwitterForIphone" = "Twitter pentru iPhone";
+"Likes" = "Aprecieri";
+"NoSavedTweets" = "Niciun tweeter salvat!";
+"EnteredLinkIsNotValid" = "Link-ul introdus nu este valid.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "Trebuie să selectaţi o categorie";
+
+// AddURLView
+"EnterCopiedURL" = "Introduceți url copiat";
+"Category" = "Categorie";
+"Save" = "Salvează";
+"AddTweetURL" = "Adaugă URL Tweet";
+
+// SettingsView
+"Settings" = "Setări";
+"BrainMarksIsOpenSource..." = "Brain-marks este un proiect open source! A fost creat pentru Big Brain Hackathon și în timpul Hacktoberfest 2021, munca a continuat.";
+"IfYouWantToContribute" = "Dacă sunteți interesat să vă contribuiți, vizitați GitHub Repo pentru mai multe informații. Mai jos poate fi găsită o listă a tuturor contribuitorilor. \nNumele tău ar putea fi acolo!";
+"ListOfContributors" = "Lista colaboratorilor";
+"Links" = "Link-uri";
+"ReportABug" = "Raportează o eroare";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "Vă mulțumim pentru utilizare";
+"Version" = "Versiune";
+
+// ContributorListView
+"Contributors" = "Colaboratori";

@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "Твіти";
+"Settings" = "Налаштування";
+
+// CategoryViews
+"Categories" = "Категорії";
+"CategoriesAreEmpty" = "Категорії порожні, ";
+"PleaseAddNewCategories" = "будь ласка, додайте нові категорії, натиснувши";
+"YouHaventCreatedCategories" = "Ви не створили жодної категорії!";
+"Edit" = "Редагувати";
+"Done" = "Виконано";
+"AllCategoriesWillBeDeleted" = "Категорія і всі твіти будуть видалені";
+"EnterCategoryName" = "Введіть назву нової категорії";
+"Cancel" = "Скасувати";
+"NewCategory" = "Нова категорія";
+"EditCategory" = "Змінити категорію";
+"Create" = "Створити";
+"Delete" = "Видалити";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "9:58 PM・9/5/20<unk>";
+"TwitterForIphone" = "Twitter для iPhone";
+"Likes" = "Сподобалося";
+"NoSavedTweets" = "твіти не збережено!";
+"EnteredLinkIsNotValid" = "Введене посилання не дійсне.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "Ви повинні вибрати категорію";
+
+// AddURLView
+"EnterCopiedURL" = "Введіть скопійовану URL-адресу";
+"Category" = "Категорія";
+"Save" = "Зберегти";
+"AddTweetURL" = "Додати URL твіту";
+
+// SettingsView
+"Settings" = "Налаштування";
+"BrainMarksIsOpenSource..." = "Brain-marks - проект з відкритим кодом! Він був створений для Великого мозку Хакатона і під час хектоберфу 2021, робота тривала.";
+"IfYouWantToContribute" = "Якщо ви зацікавлені в створенні власної підтримки, відвідайте GitHub Repo для отримання додаткової інформації. Нижче наведений список усіх учасників знайдено. \nВаше ім'я може бути там!";
+"ListOfContributors" = "Список учасників спільноти";
+"Links" = "Посилання";
+"ReportABug" = "Повідомити про помилку";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "Дякуємо вам за користування";
+"Version" = "Версія";
+
+// ContributorListView
+"Contributors" = "Учасники проекту";

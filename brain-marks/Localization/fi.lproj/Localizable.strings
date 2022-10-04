@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "Twiitit";
+"Settings" = "Asetukset";
+
+// CategoryViews
+"Categories" = "Kategoriat";
+"CategoriesAreEmpty" = "Luokat ovat tyhjiä, ";
+"PleaseAddNewCategories" = "lisää uusia kategorioita klikkaamalla kohtaa";
+"YouHaventCreatedCategories" = "Et ole luonut yhtään kategoriaa!";
+"Edit" = "Muokkaa";
+"Done" = "Valmis";
+"AllCategoriesWillBeDeleted" = "Kategoria ja kaikki twiitit poistetaan";
+"EnterCategoryName" = "Anna uuden kategorian nimi";
+"Cancel" = "Peruuta";
+"NewCategory" = "Uusi Kategoria";
+"EditCategory" = "Muokkaa Kategoriaa";
+"Create" = "Luo";
+"Delete" = "Poista";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "9:58 Pt 9/5/20";
+"TwitterForIphone" = "Twitter iPhonelle";
+"Likes" = "Tykkäykset";
+"NoSavedTweets" = "Ei twiittejä tallennettu!";
+"EnteredLinkIsNotValid" = "Antamasi linkki ei ole kelvollinen.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "Sinun täytyy valita kategoria";
+
+// AddURLView
+"EnterCopiedURL" = "Syötä kopioitu osoite";
+"Category" = "Kategoria";
+"Save" = "Tallenna";
+"AddTweetURL" = "Lisää Twiittaa URL";
+
+// SettingsView
+"Settings" = "Asetukset";
+"BrainMarksIsOpenSource..." = "Aivot ovat avoimen lähdekoodin projekti! Se on luotu Big Brain Hackathonille ja työ on jatkunut Hacktoberfest 2021 -pelin aikana.";
+"IfYouWantToContribute" = "Jos olet kiinnostunut auttamaan itseäsi, tutustu GitHub Repoon saadaksesi lisätietoja. Alla on luettelo kaikista osallistujista. \nNimesi voi olla siellä!";
+"ListOfContributors" = "Luettelo osallistujista";
+"Links" = "Linkit";
+"ReportABug" = "Ilmoita virheestä";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "Kiitos, että käytit";
+"Version" = "Versio";
+
+// ContributorListView
+"Contributors" = "Avustajat";

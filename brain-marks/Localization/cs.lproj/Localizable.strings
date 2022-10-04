@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "Tweety";
+"Settings" = "Nastavení";
+
+// CategoryViews
+"Categories" = "Kategorie";
+"CategoriesAreEmpty" = "Kategorie jsou prázdné, ";
+"PleaseAddNewCategories" = "přidejte nové kategorie kliknutím na";
+"YouHaventCreatedCategories" = "Nevytvořili jste žádné kategorie!";
+"Edit" = "Upravit";
+"Done" = "Hotovo";
+"AllCategoriesWillBeDeleted" = "Kategorie a všechny tweety budou odstraněny";
+"EnterCategoryName" = "Zadejte název nové kategorie";
+"Cancel" = "Zrušit";
+"NewCategory" = "Nová kategorie";
+"EditCategory" = "Upravit kategorii";
+"Create" = "Vytvořit";
+"Delete" = "Vymazat";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "9:58 PM-9/5/20 <unk>";
+"TwitterForIphone" = "Twitter pro iPhone";
+"Likes" = "Líbí se mi";
+"NoSavedTweets" = "Žádné tweety nebyly uloženy!";
+"EnteredLinkIsNotValid" = "Zadaný odkaz není platný.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "Musíte vybrat kategorii";
+
+// AddURLView
+"EnterCopiedURL" = "Zadejte zkopírovanou url";
+"Category" = "Kategorie";
+"Save" = "Uložit";
+"AddTweetURL" = "Přidat Tweet URL";
+
+// SettingsView
+"Settings" = "Nastavení";
+"BrainMarksIsOpenSource..." = "Brain-marks je open source projekt! Byl vytvořen pro Big Brain Hackathon a během Hacktoberfest 2021 práce pokračovala.";
+"IfYouWantToContribute" = "Pokud máte zájem přispět sami sebe, navštivte repozitář GitHub pro více informací. Níže je seznam všech přispěvatelů. \nVaše jméno tam může být!";
+"ListOfContributors" = "Seznam přispěvatelů";
+"Links" = "Odkazy";
+"ReportABug" = "Nahlásit chybu";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "Děkujeme, že používáte";
+"Version" = "Verze";
+
+// ContributorListView
+"Contributors" = "Přispěvatelé";

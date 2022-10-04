@@ -2,12 +2,11 @@
   Localizable.strings
   brain-marks
 
-  Created by AC Richter on 13.12.21.
-  Completed on 3.14.22
+  Created by AC Richter on 13.12.21. 
   
 */
-
 // TabView
+
 "Tweets" = "Tweets";
 "Settings" = "Einstellungen";
 
@@ -39,7 +38,7 @@
 "EnterCopiedURL" = "Gib eine kopierte URL an";
 "Category" = "Kategorie";
 "Save" = "Speichern";
-"AddTweetURL" = "Add Tweet URL";
+"AddTweetURL" = "Tweet-URL hinzufügen";
 
 // SettingsView
 "Settings" = "Einstellungen";

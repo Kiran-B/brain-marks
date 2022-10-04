@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "Tweets";
+"Settings" = "Inställningar";
+
+// CategoryViews
+"Categories" = "Kategorier";
+"CategoriesAreEmpty" = "Kategorierna är toma, ";
+"PleaseAddNewCategories" = "lägg till nya kategorier genom att klicka på";
+"YouHaventCreatedCategories" = "Du har inte skapat några kategorier!";
+"Edit" = "Redigera";
+"Done" = "Klar";
+"AllCategoriesWillBeDeleted" = "Kategori och alla tweets kommer att tas bort";
+"EnterCategoryName" = "Ange namn på ny kategori";
+"Cancel" = "Avbryt";
+"NewCategory" = "Ny kategori";
+"EditCategory" = "Redigera kategori";
+"Create" = "Skapa";
+"Delete" = "Radera";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "9:58 PM<unk> 9/5/20";
+"TwitterForIphone" = "Twitter för iPhone";
+"Likes" = "Gillar";
+"NoSavedTweets" = "Inga tweets sparade!";
+"EnteredLinkIsNotValid" = "Länken du angav är inte giltig.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "Du måste välja en kategori";
+
+// AddURLView
+"EnterCopiedURL" = "Ange kopierad URL";
+"Category" = "Kategori";
+"Save" = "Spara";
+"AddTweetURL" = "Lägg till Tweet URL";
+
+// SettingsView
+"Settings" = "Inställningar";
+"BrainMarksIsOpenSource..." = "Brain-marks är ett projekt med öppen källkod! Det skapades för Big Brain Hackathon och under Hacktoberfest 2021 har arbetet fortsatt.";
+"IfYouWantToContribute" = "Om du är intresserad av att bidra själv, besök GitHub Repo för mer information. Nedan finns en lista över alla bidragsgivare. \nDitt namn kan vara där!";
+"ListOfContributors" = "Lista över bidragsgivare";
+"Links" = "Länkar";
+"ReportABug" = "Rapportera en bugg";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "Tack för att du använder";
+"Version" = "Version";
+
+// ContributorListView
+"Contributors" = "Bidragsgivare";

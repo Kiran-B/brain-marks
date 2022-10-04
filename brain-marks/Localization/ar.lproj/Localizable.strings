@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "تغريدات";
+"Settings" = "الإعدادات";
+
+// CategoryViews
+"Categories" = "الفئات";
+"CategoriesAreEmpty" = "الفئات فارغة، ";
+"PleaseAddNewCategories" = "الرجاء إضافة فئات جديدة عن طريق النقر على";
+"YouHaventCreatedCategories" = "لم تقم بإنشاء أي فئات!";
+"Edit" = "تحرير";
+"Done" = "تم";
+"AllCategoriesWillBeDeleted" = "سيتم حذف الفئة وجميع التغريدات";
+"EnterCategoryName" = "أدخل اسم الفئة الجديدة";
+"Cancel" = "إلغاء";
+"NewCategory" = "فئة جديدة";
+"EditCategory" = "تحرير الفئة";
+"Create" = "إنشاء";
+"Delete" = "حذف";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "الساعة 58/9، PM.9/5/20ْ";
+"TwitterForIphone" = "تويتر للأيفون";
+"Likes" = "إعجاب";
+"NoSavedTweets" = "لم يتم حفظ تغريدات!";
+"EnteredLinkIsNotValid" = "الرابط الذي أدخلته غير صالح.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "يجب عليك تحديد فئة";
+
+// AddURLView
+"EnterCopiedURL" = "أدخل عنوان URL المنسوخ";
+"Category" = "الفئة";
+"Save" = "حفظ";
+"AddTweetURL" = "إضافة رابط تغريدة";
+
+// SettingsView
+"Settings" = "الإعدادات";
+"BrainMarksIsOpenSource..." = "علامات الدماغ هو مشروع مفتوح المصدر! لقد تم إنشاؤه للمخ الكبير هاكاثون وخلال Hacktoberfest 2021، استمر العمل.";
+"IfYouWantToContribute" = "إذا كنت مهتما بالمساهمة بنفسك، قم بزيارة GitHub Repo لمزيد من المعلومات. تحت قائمة جميع المساهمين يمكن العثور عليها. \nيمكن أن يكون اسمك هناك!";
+"ListOfContributors" = "قائمة المساهمين";
+"Links" = "الروابط";
+"ReportABug" = "أبلغ عن خلل";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "شكرا لك على استخدام";
+"Version" = "الإصدار";
+
+// ContributorListView
+"Contributors" = "المساهمون";
