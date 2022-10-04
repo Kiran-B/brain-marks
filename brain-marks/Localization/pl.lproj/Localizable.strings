@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "Tweety";
+"Settings" = "Ustawienia";
+
+// CategoryViews
+"Categories" = "Kategorie";
+"CategoriesAreEmpty" = "Kategorie są puste, ";
+"PleaseAddNewCategories" = "proszę dodać nowe kategorie klikając na";
+"YouHaventCreatedCategories" = "Nie utworzyłeś żadnych kategorii!";
+"Edit" = "Edytuj";
+"Done" = "Gotowe";
+"AllCategoriesWillBeDeleted" = "Kategoria i wszystkie tweety zostaną usunięte";
+"EnterCategoryName" = "Wprowadź nazwę nowej kategorii";
+"Cancel" = "Anuluj";
+"NewCategory" = "Nowa kategoria";
+"EditCategory" = "Edytuj kategorię";
+"Create" = "Utwórz";
+"Delete" = "Usuń";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "9:58 PM<unk> 9/5/20";
+"TwitterForIphone" = "Twitter dla iPhone'a";
+"Likes" = "Polubienia";
+"NoSavedTweets" = "Nie zapisano tweetów!";
+"EnteredLinkIsNotValid" = "Wprowadzony link jest nieprawidłowy.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "Musisz wybrać kategorię";
+
+// AddURLView
+"EnterCopiedURL" = "Wprowadź skopiowany adres URL";
+"Category" = "Kategoria";
+"Save" = "Zapisz";
+"AddTweetURL" = "Dodaj Tweet URL";
+
+// SettingsView
+"Settings" = "Ustawienia";
+"BrainMarksIsOpenSource..." = "Znaki mózgu to projekt open source! Został stworzony dla wielkiego mózgu hackathona, a podczas Hacktoberfest 2021 r. prace były kontynuowane.";
+"IfYouWantToContribute" = "Jeśli jesteś zainteresowany swoim wkładem, odwiedź GitHub Repo po po więcej informacji. Poniżej znajduje się lista wszystkich współtwórców. \nTwoja nazwa może być tam dostępna!";
+"ListOfContributors" = "Lista współautorów";
+"Links" = "Linki";
+"ReportABug" = "Zgłoś błąd";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "Dziękujemy za używanie";
+"Version" = "Wersja";
+
+// ContributorListView
+"Contributors" = "Współtwórcy";

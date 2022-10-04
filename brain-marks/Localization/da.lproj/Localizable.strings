@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "Tweets";
+"Settings" = "Indstillinger";
+
+// CategoryViews
+"Categories" = "Kategorier";
+"CategoriesAreEmpty" = "Kategorierne er tomme, ";
+"PleaseAddNewCategories" = "tilføj nye kategorier ved at klikke på";
+"YouHaventCreatedCategories" = "Du har ikke oprettet nogen kategorier!";
+"Edit" = "Rediger";
+"Done" = "Udført";
+"AllCategoriesWillBeDeleted" = "Kategori og alle tweets vil blive slettet";
+"EnterCategoryName" = "Indtast navn på ny kategori";
+"Cancel" = "Annuller";
+"NewCategory" = "Ny Kategori";
+"EditCategory" = "Rediger Kategori";
+"Create" = "Opret";
+"Delete" = "Slet";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "9:58 PM 9/5/20";
+"TwitterForIphone" = "Twitter til iPhone";
+"Likes" = "Likes";
+"NoSavedTweets" = "Ingen tweets gemt!";
+"EnteredLinkIsNotValid" = "Linket du angav er ikke gyldigt.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "Du skal vælge en kategori";
+
+// AddURLView
+"EnterCopiedURL" = "Indtast kopieret url";
+"Category" = "Kategori";
+"Save" = "Gem";
+"AddTweetURL" = "Tilføj Tweet URL";
+
+// SettingsView
+"Settings" = "Indstillinger";
+"BrainMarksIsOpenSource..." = "Brain-marks er et open source-projekt! Det blev skabt til Big Brain Hackathon og under Hacktoberfest 2021, arbejdet er fortsat.";
+"IfYouWantToContribute" = "Hvis du er interesseret i at bidrage selv, kan du besøge GitHub Repo for mere information. Nedenfor kan en liste over alle bidragsydere findes. \nDit navn kunne være der!";
+"ListOfContributors" = "Liste over bidragydere";
+"Links" = "Links";
+"ReportABug" = "Rapporter en fejl";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "Tak fordi du har brugt";
+"Version" = "Version";
+
+// ContributorListView
+"Contributors" = "Bidragydere";

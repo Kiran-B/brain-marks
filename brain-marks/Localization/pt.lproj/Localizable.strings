@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  brain-marks
+
+  Created by AC Richter on 13.12.21. 
+  
+*/
+// TabView
+
+"Tweets" = "Tweets";
+"Settings" = "Confirgurações";
+
+// CategoryViews
+"Categories" = "categorias";
+"CategoriesAreEmpty" = "As categorias estão vazias, ";
+"PleaseAddNewCategories" = "por favor, adicione novas categorias clicando em";
+"YouHaventCreatedCategories" = "Você não criou nenhuma categoria!";
+"Edit" = "Alterar";
+"Done" = "Concluído";
+"AllCategoriesWillBeDeleted" = "Categoria e todos os tweets serão excluídos";
+"EnterCategoryName" = "Digite o nome da nova categoria";
+"Cancel" = "cancelar";
+"NewCategory" = "Adicionar categoria";
+"EditCategory" = "Editar Categoria";
+"Create" = "Crio";
+"Delete" = "excluir";
+
+// TweetViews
+"9:58 PM・9/5/20・" = "9:58 de TPM";
+"TwitterForIphone" = "Twitter para iPhone";
+"Likes" = "Gostos";
+"NoSavedTweets" = "Nenhum tweet salvo!";
+"EnteredLinkIsNotValid" = "O link que você inseriu não é válido.";
+"UhOh" = "Uh oh!";
+"YouMustSelectCategory" = "Você deve selecionar uma categoria";
+
+// AddURLView
+"EnterCopiedURL" = "Digite a URL copiada";
+"Category" = "categoria";
+"Save" = "Guardar";
+"AddTweetURL" = "Adicionar URL do Tweet";
+
+// SettingsView
+"Settings" = "Confirgurações";
+"BrainMarksIsOpenSource..." = "O cérebro é um projeto de código aberto! Ele foi criado para o Grande Hacktoberfest 2021, trabalho continuou.";
+"IfYouWantToContribute" = "Se você estiver interessado em contribuir você mesmo, visite o repositório do GitHub para obter mais informações. Abaixo de uma lista de todos os colaboradores podem ser encontrados. \nSeu nome pode estar lá!";
+"ListOfContributors" = "Lista de Contribuidores";
+"Links" = "Links";
+"ReportABug" = "Reportar um erro";
+"GitHubRepo" = "GitHub Repository";
+"ThanksForUsing" = "Obrigado por usar";
+"Version" = "Versão";
+
+// ContributorListView
+"Contributors" = "Colaboradores";
