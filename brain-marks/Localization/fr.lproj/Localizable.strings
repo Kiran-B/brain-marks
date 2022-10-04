@@ -1,12 +1,12 @@
-/*
- Localizable.strings
- brain-marks
+/* 
+  Localizable.strings
+  brain-marks
 
- Created by Yash Shah on 01/10/22
-
- */
-
+  Created by AC Richter on 13.12.21. 
+  
+*/
 // TabView
+
 "Tweets" = "Tweets";
 "Settings" = "Paramètres";
 
@@ -41,7 +41,7 @@
 "AddTweetURL" = "Ajouter l'URL d'un Tweet";
 
 // SettingsView
-"Settings" = "Paramètres";
+"Settings" = "Settings";
 "BrainMarksIsOpenSource..." = "Brain-marks est un projet à code source ouvert ! Il a été créé pour le Big Brain Hackathon et pendant le Hacktoberfest 2021, le travail a continué.";
 "IfYouWantToContribute" = "Si vous souhaitez contribuer, visitez le dépôt GitHub pour plus d'informations. Une liste de tous les contributeurs se trouve ci-dessous. \nVotre nom pourrait y figurer !";
 "ListOfContributors" = "Liste des contributeurs";
