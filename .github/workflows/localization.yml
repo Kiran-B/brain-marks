@@ -34,6 +34,12 @@ jobs:
 
         # To add labels for created pull request
         pull_request_labels: "translations"
+  
+  
+        # global options
+
+        # Specify a path to the configuration file, without / at the beginning'
+        config: '.crowdin.yml'
 
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
